@@ -5,7 +5,7 @@
 1. Выбор имен и фамилий водителей (выборка):
 
 ```sql
-SELECTsql
+SELECT
     drivers.forename as name, 
     drivers.surname as last_name
 FROM
